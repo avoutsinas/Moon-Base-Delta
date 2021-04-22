@@ -15,7 +15,10 @@ The game contains middle school-high school Maths challenges and some logic/memo
 
 ## Map of the Lunar Base:
 
-![GitHub Logo](/images/picture3.jpg)
+
+<p align="center">
+  <img width="641" height="422" src="https://github.com/avoutsinas/Moon-Base-Delta/blob/main/images/picture3.jpg">
+</p>
 
 As a player, you will start the game in the storage room but be able to move to different rooms as the game progresses. To aid with navigation, we have included this map to make the layout of the base more clear. 
 
@@ -23,7 +26,9 @@ Tips:
 
 Ensure that you follow the instructions for each task closely, so that you can complete you mission before the oxygen runs out.
 
-![GitHub Logo](/Custom_graphics/Animation_Preview_Front.gif)    
+<p align="center">
+  <img width="200" height="267" src="https://github.com/avoutsinas/Moon-Base-Delta/blob/main/Custom_graphics/Animation_Preview_Front.gif">
+</p>
 **Good Luck!**   
 
 
