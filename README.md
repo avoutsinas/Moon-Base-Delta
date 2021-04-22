@@ -1,25 +1,40 @@
 
-# Grey Team: Dungeon-Game
-A space-themed dungeon game created by an agile software engineering team for a uni project. 
+# Moon Base Delta
+A space-themed dungeon game created by an Agile software engineering team for a university project. 
 
-## Install guide
-1. Ensure you have Python 3 installed on your machine
-1. Clone the code of the branch you want to edit to your machine using `git clone`.
-2. Using the command line switch to the same directory as the project. Run `pip install -r requirements.txt` to install 
-    project requirements. 
-3. To run the main game run `python main.py`
+![GitHub Logo](/images/picture1.jpg)
 
-## Tutorial list
+Moon Base Delta is a 2D space themed dungeon game developed by University of Bath MSc Computer Science students as part of their Software Engineering project. Developed with Python and mainly by using 'Python Arcade' library. Software development process has been a mixture of Scrum, XP and KanBan frameworks.
 
-- [Multi-room maps](https://arcade.academy/examples/sprite_rooms.html#sprite-rooms)
-- [Change Main program to use views](https://arcade.academy/tutorials/views/index.html#view-tutorial)
-- [Scrolling maps](https://arcade.academy/examples/sprite_move_scrolling.html?highlight=scrolling)
-- [Tiled map with levels](https://arcade.academy/examples/sprite_tiled_map_with_levels.html#sprite-tiled-map-with-levels)
+The game takes place in the near future where mankind has successfully established multiple Moon power plant colonies in order to address a global energy crisis. 
+The player assumes the role of a moon base worker who wakes up from an accident only to realise that the whole base has been compromised. The player's primary objective is to successfully escape from Moon Base Delta before the nuclear reactor explodes.
 
-## Map creation
-Maps can be created using the [Tiled map editor](https://www.mapeditor.org/). Each map should
-sit in the `maps` directory and a guide for drawing levels [can be found here](https://arcade.academy/examples/platform_tutorial/index.html#platformer-part-eight). 
+![GitHub Logo](/images/picture2.jpg)
 
-Currently maps only have walls, which should be added in a layer called `Walls`. Other objects can be added in other 
-layers. Sprites are embedded in the map creation process with Tiled. 
+The game contains middle school-high school Maths challenges and some logic/memory puzzles. If you're into space sci-fi, puzzles and maths, this game is perfect for you!
 
+## Map of the Lunar Base:
+
+![GitHub Logo](/images/picture3.jpg)
+
+As a player, you will start the game in the storage room but be able to move to different rooms as the game progresses. To aid with navigation, we have included this map to make the layout of the base more clear. 
+
+Tips:
+
+Ensure that you follow the instructions for each task closely, so that you can complete you mission before the oxygen runs out.
+## Good Luck!
+
+
+
+## Installation guide
+1. Go to https://github.bath.ac.uk/cdgg20/Dungeon-Game
+2. Click the green 'Code' button, select download as zip
+3. Locate the downloaded file on your computer and extract the files into a
+   new folder
+4. Open the command prompt by pressing the windows key and searching for command prompt
+5. Type in Python --version , if Python is not installed Windows should open the App Store where you can download and install Python 3.8
+6. Using the command prompt, navigate to the folder where the game files have been downloaded to using cd
+7. run pip install -r requirements.txt to install the requirements for the game
+8. Once the requirements are installed you can run the game by typing python main.py while at the root folder
+
+You are all set! Enjoy your adventure in Moon Base Delta!
