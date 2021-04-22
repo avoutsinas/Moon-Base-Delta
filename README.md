@@ -15,7 +15,6 @@ The game contains middle school-high school Maths challenges and some logic/memo
 
 ## Map of the Lunar Base:
 
-
 <p align="center">
   <img width="641" height="422" src="https://github.com/avoutsinas/Moon-Base-Delta/blob/main/images/picture3.jpg">
 </p>
@@ -29,9 +28,8 @@ Ensure that you follow the instructions for each task closely, so that you can c
 <p align="center">
   <img width="200" height="267" src="https://github.com/avoutsinas/Moon-Base-Delta/blob/main/Custom_graphics/Animation_Preview_Front.gif">
 </p>
-**Good Luck!**   
 
-
+**Good Luck!** 
 
 ## Installation guide
 1. Go to https://github.bath.ac.uk/cdgg20/Dungeon-Game
@@ -45,3 +43,10 @@ Ensure that you follow the instructions for each task closely, so that you can c
 8. Once the requirements are installed you can run the game by typing python main.py while at the root folder
 
 You are all set! Enjoy your adventure in Moon Base Delta!
+
+*User Manual:*
+[User_Manual.pdf](https://github.com/avoutsinas/Moon-Base-Delta/files/6360587/User_Manual.pdf)
+
+*Full Installation Guide:*
+[Installation_Guide.pdf](https://github.com/avoutsinas/Moon-Base-Delta/files/6360596/Installation_Guide.pdf)
+
