@@ -22,7 +22,9 @@ As a player, you will start the game in the storage room but be able to move to 
 Tips:
 
 Ensure that you follow the instructions for each task closely, so that you can complete you mission before the oxygen runs out.
-## Good Luck!
+
+![GitHub Logo](/Custom_graphics/Animation_Preview_Front.gif)    
+**Good Luck!**   
 
 
 
