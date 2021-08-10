@@ -23,7 +23,7 @@ As a player, you will start the game in the storage room but be able to move to 
 
 Tips:
 
-Ensure that you follow the instructions for each task closely, so that you can complete you mission before the oxygen runs out.
+Ensure that you follow the instructions for each task closely, so that you can complete your mission before the oxygen runs out.
 
 <p align="center">
   <img width="200" height="267" src="https://github.com/avoutsinas/Moon-Base-Delta/blob/main/Custom_graphics/Animation_Preview_Front.gif">
@@ -32,15 +32,14 @@ Ensure that you follow the instructions for each task closely, so that you can c
 **Good Luck!** 
 
 ## Installation guide
-1. Go to https://github.bath.ac.uk/cdgg20/Dungeon-Game
-2. Click the green 'Code' button, select download as zip
-3. Locate the downloaded file on your computer and extract the files into a
+1. Click the green 'Code' button, select download as zip
+2. Locate the downloaded file on your computer and extract the files into a
    new folder
-4. Open the command prompt by pressing the windows key and searching for command prompt
-5. Type in Python --version , if Python is not installed Windows should open the App Store where you can download and install Python 3.8
-6. Using the command prompt, navigate to the folder where the game files have been downloaded to using cd
-7. run pip install -r requirements.txt to install the requirements for the game
-8. Once the requirements are installed you can run the game by typing python main.py while at the root folder
+3. Open the command prompt by pressing the windows key and searching for command prompt
+4. Type in Python --version , if Python is not installed Windows should open the App Store where you can download and install Python 3.8
+5. Using the command prompt, navigate to the folder where the game files have been downloaded to using cd
+6. run pip install -r requirements.txt to install the requirements for the game
+7. Once the requirements are installed you can run the game by typing python main.py while at the root folder
 
 You are all set! Enjoy your adventure in Moon Base Delta!
 
